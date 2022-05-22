@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    background-color: skyblue;
+    color: white;
+}
+
+.note{
+    color: black;
+    font-size: 15px;
+}
+
+.ms
+{
+    color: lime;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: cyan;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    line-height: 4;
+    text-align: center;
+}
